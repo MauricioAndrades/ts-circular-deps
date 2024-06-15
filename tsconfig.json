@@ -1,0 +1,9 @@
+{
+    "files": ["./index.ts"],
+    "compilerOptions": {
+        "esModuleInterop": true,
+        "module": "CommonJS",
+        "outDir": "./dist/",
+        "moduleResolution": "Node"
+    }
+}
